@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tw.edu.pu.implicitintents.MainActivity">
+
+
+    <item android:id="@+id/web" android:title="youtube網頁"></item>
+    <item android:id="@+id/tel" android:title="打電話給克帆"></item>
+    <item android:id="@+id/email" android:title="寄信給克帆"></item>
+    <item android:id="@+id/search" android:title="搜尋克帆"></item>
+    <item android:id="@+id/map" android:title="根據靜宜大學GPS座標，顯示地圖"></item>
+
+</menu>
